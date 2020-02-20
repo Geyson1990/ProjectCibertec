@@ -1,0 +1,8 @@
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Core\bin\Debug\netstandard2.0\SlnCibertec.Core.deps.json
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Core\bin\Debug\netstandard2.0\SlnCibertec.Core.dll
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Core\bin\Debug\netstandard2.0\SlnCibertec.Core.pdb
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Core\obj\Debug\netstandard2.0\SlnCibertec.Core.csprojAssemblyReference.cache
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Core\obj\Debug\netstandard2.0\SlnCibertec.Core.AssemblyInfoInputs.cache
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Core\obj\Debug\netstandard2.0\SlnCibertec.Core.AssemblyInfo.cs
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Core\obj\Debug\netstandard2.0\SlnCibertec.Core.dll
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Core\obj\Debug\netstandard2.0\SlnCibertec.Core.pdb

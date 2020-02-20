@@ -1,0 +1,11 @@
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.csprojAssemblyReference.cache
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.AssemblyInfoInputs.cache
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.AssemblyInfo.cs
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Infra\bin\Debug\netstandard2.0\SlnCibertec.Infra.deps.json
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Infra\bin\Debug\netstandard2.0\SlnCibertec.Infra.dll
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Infra\bin\Debug\netstandard2.0\SlnCibertec.Infra.pdb
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Infra\bin\Debug\netstandard2.0\SlnCibertec.Core.dll
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Infra\bin\Debug\netstandard2.0\SlnCibertec.Core.pdb
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.csproj.CopyComplete
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.dll
+C:\Users\Gene\Desktop\CIBERTEC\SlnCibertec\SlnCibertec.Infra\obj\Debug\netstandard2.0\SlnCibertec.Infra.pdb
